@@ -11,6 +11,6 @@ basta eyyy kanaaa kalimot kos setup nako btawww,,,, bahala namooo bleeeeh
 
 Plate Number Recognition
 Install requirements.txt and other stuff
-Have datasets
-train datasets in anpr.ipynb
-then run python auto.py
+- Have datasets
+- Train datasets in anpr.ipynb
+- then run python auto.py
